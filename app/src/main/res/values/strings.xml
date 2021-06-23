@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Evenement</string>
+    <string name="description">Description</string>
+    <string name="lieu">Lieu</string>
+    <string name="date_evenement">Date evenement</string>
+    <string name="ajouter_evenement">Ajouter Evenement</string>
+</resources>
